@@ -1,0 +1,5 @@
+C:\repo\WcfTestApplication\ServiceContracts\bin\Debug\ServiceContracts.dll
+C:\repo\WcfTestApplication\ServiceContracts\bin\Debug\ServiceContracts.pdb
+C:\repo\WcfTestApplication\ServiceContracts\obj\Debug\ResolveAssemblyReference.cache
+C:\repo\WcfTestApplication\ServiceContracts\obj\Debug\ServiceContracts.dll
+C:\repo\WcfTestApplication\ServiceContracts\obj\Debug\ServiceContracts.pdb
