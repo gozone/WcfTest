@@ -9,6 +9,7 @@ namespace ServiceClientApplication
     {
         static void Main(string[] args)
         {
+            
         }
     }
 }

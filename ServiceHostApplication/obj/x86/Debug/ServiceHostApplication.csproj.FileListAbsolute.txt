@@ -5,3 +5,4 @@ C:\repo\WcfTestApplication\ServiceHostApplication\bin\Debug\ServiceContracts.dll
 C:\repo\WcfTestApplication\ServiceHostApplication\bin\Debug\ServiceContracts.pdb
 C:\repo\WcfTestApplication\ServiceHostApplication\obj\x86\Debug\ServiceHostApplication.exe
 C:\repo\WcfTestApplication\ServiceHostApplication\obj\x86\Debug\ServiceHostApplication.pdb
+C:\repo\WcfTestApplication\ServiceHostApplication\bin\Debug\ServiceHostApplication.exe.config
