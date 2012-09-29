@@ -2,6 +2,7 @@
 bin
 obj
 *.suo
+x86
 
 # mstest test results
 TestResults
